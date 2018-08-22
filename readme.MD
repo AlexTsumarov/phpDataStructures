@@ -20,3 +20,4 @@
 [889.74    ms 32 MB] 
 [2.05      ms 32 MB] End. Values generated - 400000
 ```
+Please use https://phpbench.readthedocs.io/en/latest/installing.html instead
